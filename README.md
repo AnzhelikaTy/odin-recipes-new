@@ -1,1 +1,1 @@
-This is my first HTML project on theodinproject.com. At first it will not look as fancy as it should look but as I learn, I will add more and more elements to it using CSS and JS.
+This is my first HTML project on theodinproject.com where I reflect my knowledge how web page is structured. At first it will not look as fancy as it should look but as I learn, I will add more and more elements to it using CSS and JS.
