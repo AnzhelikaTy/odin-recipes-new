@@ -1,8 +1,17 @@
+*{
+    background-color: rgb(241, 194, 141);
+}
+
 h1{
     color: rgb(39, 8, 8);
     text-align: center;
 }
-h2{
-color: rgb(143, 40, 57);
-background-color: antiquewhite;
+p{
+    display: table;
+    margin: 0px auto 0px auto;
+    padding:5px;
+    font-size: 24px;
+    font-weight: bold;
+    color: rgb(143, 40, 57);
+    background-color: rgb(255, 251, 247);
 }
