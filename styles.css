@@ -3,24 +3,27 @@
 }
 
 h1{
-    color: rgb(39, 8, 8);
-    text-align: center;
-    font-weight: bold;
-    font-family:'Courier New', Courier, monospace;
+    color:white;
+    text-align:center;
+    font-weight: normal;
+    font-size: 120px;
+    font-family: 'Gorditas', cursive;
 }
-p{
-    display: table; 
-    margin: 0px auto 0px auto;
-    padding:5px;
-    font-size: 24px;
-    font-weight: bold;
-    color: rgb(143, 40, 57);
-    background-color: rgb(255, 251, 247);
-}
-.logo {
+figure {
+    margin-top: 25px;
+    margin-left:155px;
+    margin-right: 70px;
 
+        display:inline-table;
+        vertical-align:top;
+        
+      }
+
+    
+.logo {
+border-radius: 15px;
 width: 300px;
-padding: 20px;
+padding: 5px;
 margin: 5px;
 }
 
@@ -30,4 +33,14 @@ button {
     border-color: antiquewhite;
     border-width: 2px;
     
+}
+
+figcaption {
+    color:rgb(165, 106, 106);
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-style:italic;
+    text-align:center;
+    padding-top: 10%;
 }
