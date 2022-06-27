@@ -13,11 +13,9 @@ figure {
     margin-top: 25px;
     margin-left:155px;
     margin-right: 70px;
-
-        display:inline-table;
-        vertical-align:top;
-        
-      }
+    display:inline-table;
+    vertical-align:top;
+}
 
     
 .logo {
@@ -37,9 +35,9 @@ button {
 
 figcaption {
     color:rgb(165, 106, 106);
-    font-size: 20px;
-    font-weight:bold;
-    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+    font-weight: normal;
+    font-family: 'Gorditas', cursive;
     font-style:italic;
     text-align:center;
     padding-top: 10%;
